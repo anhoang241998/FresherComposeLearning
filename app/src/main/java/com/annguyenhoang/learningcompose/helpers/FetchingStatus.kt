@@ -1,4 +1,4 @@
-package com.annguyenhoang.learningcompose.helpers.models
+package com.annguyenhoang.learningcompose.helpers
 
 enum class FetchingStatus {
     LOADING,
